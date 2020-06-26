@@ -25,7 +25,7 @@ yarn start # or npm start
 ```
 
 ## Run
-```bash
+```
 # Usage: 
 # Find Wallet
 $ node index.js -f elmo # find elmo from leveldb
