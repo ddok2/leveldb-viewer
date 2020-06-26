@@ -1,8 +1,9 @@
 # LevelDB Viewer
 
-![](https://img.shields.io/github/languages/top/hyperledger-study/leveldb-viewer)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/hyperledger-study/leveldb-viewer/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/hyperledger-study/leveldb-viewer/?branch=master)
-[![Total alerts](https://img.shields.io/lgtm/alerts/g/hyperledger-study/leveldb-viewer.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/hyperledger-study/leveldb-viewer/alerts/)
+[![Build Status](https://scrutinizer-ci.com/g/ddok2/leveldb-viewer/badges/build.png?b=master)](https://scrutinizer-ci.com/g/ddok2/leveldb-viewer/build-status/master)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/ddok2/leveldb-viewer/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/ddok2/leveldb-viewer/?branch=master)
+[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/ddok2/leveldb-viewer.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/ddok2/leveldb-viewer/context:javascript)
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/ddok2/leveldb-viewer.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/ddok2/leveldb-viewer/alerts/)
 
 
 ## Getting Started
