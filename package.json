@@ -1,0 +1,29 @@
+{
+  "name": "blockchain.ledgerviewer",
+  "version": "1.0.0",
+  "description": "Hyperledger Fabric LevelDB Wallet Finder",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run build && node build/index.js",
+    "start:dev": "nodemon",
+    "build": "rimraf ./build && tsc"
+  },
+  "keywords": ["LevelDB", "Hyperledger"],
+  "author": "Sungyub NA",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^5.1.0",
+    "dotenv": "^8.2.0",
+    "level": "^6.0.1",
+    "print-message": "^3.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^14.0.13",
+    "eslint": "^7.3.1",
+    "eslint-config-google": "^0.14.0",
+    "nodemon": "^2.0.4",
+    "rimraf": "^3.0.2",
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.5"
+  }
+}
